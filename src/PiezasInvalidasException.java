@@ -1,6 +1,4 @@
-public class PiezasInvalidasException {
-
-    public class piezasInvalidasException
+public class piezasInvalidasException
             extends Exception {
 
         public piezasInvalidasException(
