@@ -1,4 +1,4 @@
-public enum genero {
+public enum Genero {
 
         MASCULINO,
         FEMENINO,
