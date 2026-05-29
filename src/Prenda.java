@@ -1,7 +1,5 @@
 public class Prenda {
 
-    public class prenda {
-
         private String modelo;
         private String genero;
         private String temporada;
@@ -11,7 +9,7 @@ public class Prenda {
 
         private double limiteCosto;
 
-        public prenda(String modelo,
+        public Prenda(String modelo,
                       String genero,
                       String temporada,
                       String tela,
