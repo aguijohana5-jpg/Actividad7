@@ -1,7 +1,5 @@
 public class Lote {
 
-    public class lote {
-
         private int numeroLote;
 
         private int numeroPiezas;
@@ -10,7 +8,7 @@ public class Lote {
 
         private Prenda prenda;
 
-        public lote(int numeroLote,
+        public Lote(int numeroLote,
                     int numeroPiezas,
                     String fechaFabricacion,
                     Prenda prenda)
