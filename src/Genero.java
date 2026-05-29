@@ -1,10 +1,7 @@
-public class Genero {
-
-    public enum genero {
+public enum genero {
 
         MASCULINO,
         FEMENINO,
         MIXTO
-
-    }
+    
 }
