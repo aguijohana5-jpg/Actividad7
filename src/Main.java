@@ -209,17 +209,13 @@ public class Main {
 
                         System.out.println(l);
 
-                        System.out.println(
-                                "Costo total: " +
+                        System.out.printf(
+                                "Costo total: %.2f\n",
+                                l.calcularCostoProduccionLote());
 
-                                        l
-                                                .calcularCostoProduccionLote());
-
-                        System.out.println(
-                                "Monto recuperacion: " +
-
-                                        l
-                                                .calcularMontoRecuperacion());
+                        System.out.printf(
+                                "Monto recuperacion: %.2f\n",
+                                l.calcularMontoRecuperacion());
 
                     }
 
