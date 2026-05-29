@@ -15,7 +15,7 @@ public class Lote {
                 throws
                 PiezasInvalidasException {
 
-            if(numeroPiezas < 50
+            if (numeroPiezas < 50
                     || numeroPiezas > 350) {
 
                 throw new
@@ -96,6 +96,5 @@ public class Lote {
                     prenda.getModelo();
 
         }
-
     }
 }
