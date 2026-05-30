@@ -1,7 +1,7 @@
 public class PiezasInvalidasException
             extends Exception {
 
-        public piezasInvalidasException(
+        public PiezasInvalidasException(
                 String mensaje) {
 
             super(mensaje);
