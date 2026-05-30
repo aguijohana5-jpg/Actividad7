@@ -110,7 +110,6 @@ public class Prenda {
                     "\nCosto produccion: " +
                     costoProduccion;
 
-        }
+       }
 
-    }
 }
