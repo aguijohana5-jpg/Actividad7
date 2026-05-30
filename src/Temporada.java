@@ -1,11 +1,8 @@
-public class Temporada {
-
-    public enum temporada {
+public enum Temporada {
 
         PRIMAVERA,
         VERANO,
         OTONO,
         INVIERNO
 
-    }
 }
