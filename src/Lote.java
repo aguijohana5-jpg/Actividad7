@@ -95,6 +95,5 @@ public class Lote {
                     "\nPrenda asociada: " +
                     prenda.getModelo();
 
-        }
     }
 }
